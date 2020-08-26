@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int cf_1328A()
 {
 	long t, a, b;
 	cin >> t;
