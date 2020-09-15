@@ -6,7 +6,7 @@ using namespace std;
 
 ll sum(ll n) { return n * (n + 1) / 2; }
 
-int main()
+int mainchfswap()
 {
 	ld t, n;
 	cin >> t;
