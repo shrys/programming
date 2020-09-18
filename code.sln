@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "codechef", "codechef\codech
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hackerrank", "hackerrank\hackerrank.vcxproj", "{D805579A-EE64-4596-8D51-5FE886D961B8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode", "leetcode\leetcode.vcxproj", "{6470591C-C365-49B6-AA9B-0550A653DD84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,16 @@ Global
 		{D805579A-EE64-4596-8D51-5FE886D961B8}.Release|x64.Build.0 = Release|x64
 		{D805579A-EE64-4596-8D51-5FE886D961B8}.Release|x86.ActiveCfg = Release|Win32
 		{D805579A-EE64-4596-8D51-5FE886D961B8}.Release|x86.Build.0 = Release|Win32
+		{6470591C-C365-49B6-AA9B-0550A653DD84}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6470591C-C365-49B6-AA9B-0550A653DD84}.Debug|x64.ActiveCfg = Debug|x64
+		{6470591C-C365-49B6-AA9B-0550A653DD84}.Debug|x64.Build.0 = Debug|x64
+		{6470591C-C365-49B6-AA9B-0550A653DD84}.Debug|x86.ActiveCfg = Debug|Win32
+		{6470591C-C365-49B6-AA9B-0550A653DD84}.Debug|x86.Build.0 = Debug|Win32
+		{6470591C-C365-49B6-AA9B-0550A653DD84}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6470591C-C365-49B6-AA9B-0550A653DD84}.Release|x64.ActiveCfg = Release|x64
+		{6470591C-C365-49B6-AA9B-0550A653DD84}.Release|x64.Build.0 = Release|x64
+		{6470591C-C365-49B6-AA9B-0550A653DD84}.Release|x86.ActiveCfg = Release|Win32
+		{6470591C-C365-49B6-AA9B-0550A653DD84}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
